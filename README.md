@@ -223,5 +223,4 @@ index=main sourcetype="WinEventLog:Security"
 
 ---
 
-*Built by Prajwal Borgave — 3rd year B.Tech CSE, Pimpri-Chinchwad University*
-*Part of an ongoing cybersecurity portfolio. Open to internship opportunities in offensive security / SOC / VAPT.*
+*Built by Prajwal Borgave — 4rd year B.Tech CSE*
