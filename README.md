@@ -223,4 +223,4 @@ index=main sourcetype="WinEventLog:Security"
 
 ---
 
-*Built by Prajwal Borgave — 4rd year B.Tech CSE*
+*Built by Prajwal Borgave — 4th year B.Tech CSE*
